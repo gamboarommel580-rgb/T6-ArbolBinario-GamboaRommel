@@ -14,9 +14,6 @@ Representar la organización jerárquica de dependencias universitarias mediante
 - `src/negocio/ArbolBinario.java`
 - `src/app/Main.java`
 
-## Ejecución
-    javac -d bin src/modelo/*.java src/negocio/*.java src/app/*.java
-    java -cp bin app.Main
 
 ## Resultados y casos de prueba
 (pendiente: capturas)
