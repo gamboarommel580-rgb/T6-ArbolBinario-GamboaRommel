@@ -188,7 +188,7 @@ java -cp bin app.Main
 ![Grado y hoja](img/05_grado_hoja.png)
 
 ### 6. Validaciones
-![Validaciones](06_validaciones.png)
+![Validaciones](img/06_validaciones.png)
 
 ---
 
